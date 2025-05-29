@@ -1,7 +1,7 @@
 # Eclipse Launcher
 ## Eclipse is a launcher and auto-updater for the indie game Endless Abyss made by @StrawberrySmoothieDev
 ### Check out the game here: https://smoothiegames.itch.io/endless-abyss
-#### NEW UPDATES EVERY MONDAY! (until i run out of ideas)
+#### NEW UPDATES EVERY ONCE IN A WHILE IF I HAVE TIME! (until i run out of ideas)
 ONLY MADE FOR WINDOWS (currently), it might be possible to use wine for other OSes but I didn't try that yet.
 
 features:
